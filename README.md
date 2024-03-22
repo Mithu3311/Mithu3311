@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Mithu
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate with you
+
 
 <!---
 Mithu3311/Mithu3311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
